@@ -1,0 +1,3 @@
+git add .
+git commit -m "nambah file baru"
+git push origin main
